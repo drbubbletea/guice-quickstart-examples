@@ -12,6 +12,13 @@
     <name>examples</name>
     <url>https://github.com/drbubbletea/guice-quickstart-examples</url>
 
+    <licenses>
+        <license>
+            <name>MIT No Attribution</name>
+            <comments>Copy of the license provided in the 'LICENSE' file</comments>
+        </license>
+    </licenses>
+
     <artifactId>examples</artifactId>
     <version>0.1.0</version>
     <packaging>pom</packaging>
